@@ -27,7 +27,7 @@ composer install
 cp .env.example .env <-- edit db config
 ```
 
-to migrate database and feed the data
+to migrate database and seed the data
 ```
 php artisan migrate
 php artisan db:seed
