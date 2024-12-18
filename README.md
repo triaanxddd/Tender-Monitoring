@@ -18,9 +18,13 @@ Tender monitoring is a web to track progression of tenders, each of tender has w
 Tender Monitoring is good application for online storage media
 
 ## Installation
-- Download tender-monitoring zip file
-- Extract the project file
-- Get into the tender-monitoring folder
+- Clone with github
+  ```
+  git clone https://github.com/triaanxddd/Tender-Monitoring
+  ```
+- ```
+  cd Tender-Monitoring
+  ```
 - And open terminal
 ```
 composer install
@@ -29,6 +33,7 @@ cp .env.example .env <-- edit db config
 
 to migrate database and seed the data
 ```
+php artisan key:generate
 php artisan migrate
 php artisan db:seed
 ```
