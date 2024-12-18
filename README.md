@@ -22,7 +22,8 @@ Tender Monitoring is good application for online storage media
   ```
   git clone https://github.com/triaanxddd/Tender-Monitoring
   ```
-- ```
+- Open Directory
+```
   cd Tender-Monitoring
   ```
 - And open terminal
