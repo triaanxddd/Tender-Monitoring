@@ -15,7 +15,7 @@ Tender monitoring is a web to track progression of tenders, each of tender has w
 - Profile.
 - Leader page (to check the summary of job progression for admin).
 
-Tender Monitoring is good application for online storage media
+All of these features are made based on request by company directors himself
 
 ## Installation
 - Clone with github
