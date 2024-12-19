@@ -2,7 +2,7 @@
 
 ## About Tender Monitoring Application
 
-Tender monitoring is a web to track progression of tenders, each of tender has work to be done in the form of a todo list
+Tender monitoring is a web to track progression of tenders, each of tenders has work to be done in the form of a todo list. Users can input data in the form of text, numbers, and even files to complete the list provided.
 
 ## Feature
 
@@ -29,7 +29,7 @@ All of these features are made based on request by company directors himself
 - And open terminal
 ```
 composer install
-cp .env.example .env <-- edit db config
+cp .env.example .env <-- configure the config
 ```
 
 to migrate database and seed the data
