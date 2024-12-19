@@ -27,8 +27,7 @@ Requirement version programming language/framework/dbms:
 All of these features are made based on request by company directors himself
 
 ## References
-- Argon Dashboard for Template
-- 
+- Argon Dashboard for Template (Argon Dashboard 2)
 ## Installation
 - Clone with github
   ```
