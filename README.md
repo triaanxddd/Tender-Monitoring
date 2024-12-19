@@ -3,7 +3,7 @@
 ## About Tender Monitoring Application
 ![image](https://github.com/user-attachments/assets/c7f889b4-17c9-4993-b75c-f5965f074a02)
 
-Tender monitoring is a website application to track progression of tenders, each of tenders has work to be done in the form of a todo list, users can input data in the form of text, numbers, and even files to complete the list provided until list be completed. 
+Tender monitoring is a website application to track progression of tender jobs, each of tender jobs has work to be done in the form of a todo list, users can input data in the form of text, numbers, and even files to complete the list provided until list be completed. 
 All of these features is provided and made based on request of director and employees of Energia Transmedia company needed to store kind of documents in online website.
 
 Requirement version programming language/framework/dbms:
