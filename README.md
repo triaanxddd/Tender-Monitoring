@@ -1,6 +1,6 @@
 
 
-## About Tender Monitoring Application
+## About Tender Monitoring Application in Laravel
 ![image](https://github.com/user-attachments/assets/c7f889b4-17c9-4993-b75c-f5965f074a02)
 
 Tender monitoring is a website application to track progression of tender jobs, each of tender jobs has work to be done in the form of a todo list, users can input data in the form of text, numbers, and even files to complete the list provided until list be completed. 
